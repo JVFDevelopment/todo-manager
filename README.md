@@ -18,7 +18,3 @@ A simple command-line todo list manager built in Python.
 
 ### **Next Steps:**
 1. **Run the Application**: You can run the app by executing `python todo_manager.py` in your terminal.
-2. **Test Each Feature**: Make sure to test adding, listing, marking, and deleting tasks.
-3. **Bonus Features**: Add any bonus features you want to implement later.
-
-Let me know if you'd like to modify any part of this or if you want to proceed with enhancements!
